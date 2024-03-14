@@ -1,0 +1,19 @@
+because github has an annoying 25mb upload limit, I've had to split KotOR Weapons & Armor into four parts since the apparel textures take up a lot of space. simply unzip and merge the four parts together.
+
+MOD DEPENDENCIES - Star Wars Xenotypes
+- Big and Small Framework: https://steamcommunity.com/sharedfiles/filedetails/?id=2925432336
+- Integrated Genes: https://github.com/Turnovus/Integrated-Genes
+- Rimwars Pureblood Xenotype: https://steamcommunity.com/sharedfiles/filedetails/?id=2885729184
+
+MOD DEPENDENCIES - KotOR Weapons & Armor
+- ModularWeapons: https://steamcommunity.com/sharedfiles/filedetails/?id=2878204522
+- VEF: https://github.com/Vanilla-Expanded/VanillaExpandedFramework
+- Harmony: https://github.com/pardeike/HarmonyRimWorld/releases/tag/v1.7.1.0
+
+MOD DEPENDENCIES - KotOR Gadgets & Equipment
+- AthenaFramework: https://github.com/SmArtKar/AthenaFramework
+
+MOD DEPENDENCIES - KotOR Droids
+- HAR: https://github.com/erdelf/AlienRaces
+- Mechanical Humanlikes Core: https://github.com/RWDevathon/Mechanical-Humanlikes-Core
+- Android Tiers Reforged Core: https://github.com/RWDevathon/Android-Tiers-Reforged-Core

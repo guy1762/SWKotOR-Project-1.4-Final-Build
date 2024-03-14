@@ -1,1 +1,0 @@
-because github has an annoying 25mb upload limit, I've had to split KotOR Weapons & Armor into four parts since the apparel textures take up a lot of space. simply unzip and merge the four parts together.
